@@ -103,7 +103,7 @@ You can also upgrade the kubelet on specific nodes by providing a list of node n
 ```bash
 kubeadm upgrade node node1 node2
 ```
-
+  
 #### `upgrade` Flags
 
 - The `--image-repository` flag specifies the repository from which to pull the container images.  
